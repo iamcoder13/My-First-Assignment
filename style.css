@@ -5,9 +5,9 @@ body{
 h1{
     font-size: 50px;
     color: Gray;
-
 }
 p{
+    color: darkblue;
     margin-bottom: 30px;
 }
 .orange-color{
@@ -26,9 +26,9 @@ p{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(darkblue,green);
     padding: 20px 40px;
-    color:white;
+    color:rgb(216,213,213);
     font-weight: 600;
     border-radius: 30px;
 }
